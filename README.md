@@ -1,4 +1,6 @@
-# electron_chat
+# Voice Chatbot 
+
+Using OpenAI ChatGPT API, Microsoft Azure voice recognition and synthesis API, Vue.js, Electron.js, ElementPlus and Flask to implement a voice chatbot desktop software available in English and Chinese.
 
 ## Project setup
 ```
